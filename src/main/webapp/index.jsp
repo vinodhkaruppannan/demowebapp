@@ -11,7 +11,8 @@
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Background Color Change</h1>
-      <h2 class="text-center">Test Version 4.0</h2>
+      <h2 class="text-center">Good Morning All - Monday</h2>
+      <h3 class="text-center">Test Version 4.0</h3>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
